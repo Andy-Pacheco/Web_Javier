@@ -1,0 +1,17 @@
+.bg-noscroll {
+  background-color: rgba(255, 0, 0, 0);
+
+}
+
+.bg-noscroll a{
+  color: rgb(0, 0, 0);
+}
+
+.bg-cover {
+  background-image: url("../assets/cover.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+
+}
